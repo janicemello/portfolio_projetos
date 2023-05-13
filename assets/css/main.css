@@ -1800,7 +1800,7 @@ button,
         height: 100%; }
       .posts article:nth-last-child(1):after, .posts article:nth-last-child(2):after {
         display: none; } }
-  @media screen and (max-width: 736px) {
+  @media screen and (max-width: 840px) {
     .posts {
       margin: 0 0 2em -4.5em;
       width: calc(100% + 4.5em); }
