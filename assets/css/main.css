@@ -169,7 +169,7 @@ h6 {
   h1 {
     font-size: 3.25em; } }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 840px) {
   h1 {
     font-size: 2em;
     line-height: 1.4; }
@@ -732,7 +732,7 @@ hr {
           margin-top: -3em; }
           .row.gtr-200.gtr-uniform > * {
             padding-top: 3em; } }
-  @media screen and (max-width: 736px) {
+  @media screen and (max-width: 840px) {
     .row {
       display: flex;
       flex-wrap: wrap;
@@ -1873,7 +1873,7 @@ button,
       padding: 0 4em 0.1em 4em ; }
       #main > .inner > section {
         padding: 4em 0 2em 0 ; } }
-  @media screen and (max-width: 736px) {
+  @media screen and (max-width: 840px) {
     #main > .inner {
       padding: 0 2em 0.1em 2em ; }
       #main > .inner > section {
@@ -2049,7 +2049,7 @@ button,
           margin-left: -0.4375em; }
       body.is-preload #sidebar {
         display: none; } }
-  @media screen and (max-width: 736px) {
+  @media screen and (max-width: 840px) {
     #sidebar .toggle {
       text-indent: 7.25em;
       width: 7.25em; }
@@ -2094,7 +2094,7 @@ button,
   @media screen and (max-width: 1680px) {
     #header {
       padding-top: 5em; } }
-  @media screen and (max-width: 736px) {
+  @media screen and (max-width: 840px) {
     #header {
       padding-top: 6.5em; }
       #header .logo {
